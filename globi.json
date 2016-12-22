@@ -1,5 +1,7 @@
-{
-"format" : "coetzer",
-"citation" : "Catalogue of Afrotropical Bees. 2011. http://doi.org/10.15468/u9ezbh",
-"archiveURL" : "CatalogueOfAfrotropicalBees.zip"
+{ 
+  "format" : "coetzer",
+  "citation" : "Catalogue of Afrotropical Bees. 2011. http://doi.org/10.15468/u9ezbh",
+  "resources" : {
+    "archive" : "CatalogueOfAfrotropicalBees.zip"
+  }
 }
