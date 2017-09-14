@@ -1,6 +1,7 @@
 { 
   "format" : "coetzer",
-  "citation" : "Eardley C, Coetzer W. 2011. Catalogue of Afrotropical Bees. http://doi.org/10.15468/u9ezbh",
+  "citation" : "Eardley C, Coetzer W. 2011. Catalogue of Afrotropical Bees.",
+  "doi" : "http://doi.org/10.15468/u9ezbh",
   "resources" : {
     "archive" : "CatalogueOfAfrotropicalBees.zip"
   }
