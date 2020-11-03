@@ -1,8 +1,5 @@
 { 
-  "format" : "coetzer",
-  "citation" : "Eardley C, Coetzer W. 2011. Catalogue of Afrotropical Bees.",
-  "doi" : "10.15468/u9ezbh",
-  "resources" : {
-    "archive" : "CatalogueOfAfrotropicalBees.zip"
-  }
+  "format" : "dwca",
+  "citation" : "Eardley C, Coetzer W. 2016. Catalogue of Afrotropical Bees.",
+  "url" : "http://ipt.saiab.ac.za/archive.do?r=catalogueofafrotropicalbees"
 }
