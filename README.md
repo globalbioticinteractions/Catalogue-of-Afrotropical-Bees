@@ -1,5 +1,5 @@
 # Catalogue-of-Afrotropical-Bees
-[![Build Status](https://travis-ci.com/globalbioticinteractions/Catalogue-of-Afrotropical-Bees.svg)](https://travis-ci.com/globalbioticinteractions/Catalogue-of-Afrotropical-Bees) [![DOI](https://zenodo.org/badge/598171.svg)](https://zenodo.org/badge/latestdoi/598171) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/Catalogue-of-Afrotropical-Bees)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/Catalogue-of-Afrotropical-Bees)
+[![Build Status](https://travis-ci.com/globalbioticinteractions/Catalogue-of-Afrotropical-Bees.svg)](https://travis-ci.com/globalbioticinteractions/Catalogue-of-Afrotropical-Bees) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.598171.svg)](https://doi.org/10.5281/zenodo.598171) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/Catalogue-of-Afrotropical-Bees)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/Catalogue-of-Afrotropical-Bees)
 
 Eardley C, Coetzer W. 2016. Catalogue of Afrotropical Bees. 
 
